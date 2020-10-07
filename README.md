@@ -1,2 +1,2 @@
-# expense-app
+# expense-tracker-app
  
